@@ -1,5 +1,5 @@
 # **咕咕文游**
-![](assets/logo/splash.png)
+![](assets/logo/splash2.png)
 永远相信美好的事情即将发生
 
 - #### **介绍**
