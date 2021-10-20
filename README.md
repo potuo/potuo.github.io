@@ -1,5 +1,6 @@
-# **咕咕文游**
-<img src="assets/logo/splash2.png" style="width:100px">
+<div align="center"><h2>咕咕文游</h2><br><img src="assets/logo/splash2.png" style="width:100px" align="center"></div>
+
+
 永远相信美好的事情即将发生
 
 - #### **介绍**
