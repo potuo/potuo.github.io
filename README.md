@@ -1,5 +1,5 @@
 # **咕咕文游**
-![](assets/logo/splash2.png)
+<img src="assets/logo/splash2.png" style="width:50px">
 永远相信美好的事情即将发生
 
 - #### **介绍**
