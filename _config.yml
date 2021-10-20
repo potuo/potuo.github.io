@@ -1,0 +1,13 @@
+title: 咕咕文游APP
+author: "blueloveTH"
+
+theme: minima
+
+# Minima: show excerpts in the homepage
+show_excerpts: true
+
+minima:
+  date_format: "%Y-%m-%d"
+
+# Minima: custom header links
+header_pages:
